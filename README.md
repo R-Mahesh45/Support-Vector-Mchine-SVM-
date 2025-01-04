@@ -83,7 +83,7 @@ This project focuses on using SVM, a powerful supervised learning algorithm, to 
 ## **Installation**  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/username/svm-classification.git  
+   git clone https://github.com/R-Mahesh45/svm-classification.git  
    cd svm-classification  
    ```  
 2. Install the required libraries:  
